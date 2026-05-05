@@ -1,4 +1,4 @@
-# Zynq-7020 SDR Carrier Board
+# PeriR
 
 A custom Software Defined Radio (SDR) carrier board built around the **Xilinx Zynq-7020 SoC** and **Analog Devices AD9364** RF transceiver. The board is designed to run **Kuiper Linux** (Analog Devices' Raspberry Pi OS-based distro) out of the box, with native support for GNU Radio and SDR++ applications.
 
