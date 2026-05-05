@@ -8,7 +8,7 @@ A custom Software Defined Radio (SDR) carrier board built around the **Xilinx Zy
 
 This project is inspired by the [FreeSRP](http://electronics.kitchen/misc/freesrp/) open-source SDR by Lukas Lao Beyer and borrows design references from the **FMCOMMS4**, **Zedboard**, **ADRV9364-Z7020**, and **PlutoSDR**.
 
-The goal is a powerful, Linux-capable SDR transceiver with a compact form factor — and eventually, a handheld device in the spirit of the HackRF Portapack.
+The goal is a powerful, Linux-capable SDR transceiver with a compact form factor and eventually, a handheld device like the HackRF Portapack.
 
 ---
 
