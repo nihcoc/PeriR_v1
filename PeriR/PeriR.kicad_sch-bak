@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e4639d6f-baa7-40eb-b2ba-81379ef307f4")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 110.49 55.88)
+		(size 30.48 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "51ba141c-3b0c-4fb3-a720-22282b821642")
+		(property "Sheetname" "INTERFACES"
+			(at 110.49 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INTERFACES.kicad_sch"
+			(at 110.49 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriR"
+				(path "/e4639d6f-baa7-40eb-b2ba-81379ef307f4"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 44.45)
+		(size 15.24 7.62)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "881cc656-f78c-4204-bc0d-2ca23d12df6d")
+		(property "Sheetname" "DDR"
+			(at 157.48 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR.kicad_sch"
+			(at 157.48 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriR"
+				(path "/e4639d6f-baa7-40eb-b2ba-81379ef307f4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 58.42)
+		(size 33.02 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b8140882-0183-4234-8f8d-5d06671d73ef")
+		(property "Sheetname" "FPGA"
+			(at 148.59 57.7084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "FPGA.kicad_sch"
+			(at 148.59 83.1346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriR"
+				(path "/e4639d6f-baa7-40eb-b2ba-81379ef307f4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 148.59 93.98)
+		(size 33.02 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dd5ff686-fae1-4e2e-a826-cdcabea30ce6")
+		(property "Sheetname" "Power"
+			(at 148.59 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 148.59 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriR"
+				(path "/e4639d6f-baa7-40eb-b2ba-81379ef307f4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 55.88)
+		(size 45.72 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fe50d36b-d31b-456f-ae52-256c19497fef")
+		(property "Sheetname" "Transceiver"
+			(at 189.23 55.1684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Transceiver.kicad_sch"
+			(at 189.23 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PeriR"
+				(path "/e4639d6f-baa7-40eb-b2ba-81379ef307f4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

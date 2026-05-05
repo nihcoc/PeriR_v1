@@ -1,0 +1,3103 @@
+ERC report (2026-04-19T17:17:09+0400, Encoding UTF8)
+
+***** Sheet /
+[hier_label_mismatch]: Sheet pin {AD_INTERFACE} has no matching hierarchical label inside the sheet
+    ; error
+    @(6800 mils, 3150 mils): Hierarchical Sheet Pin {AD_INTERFACE}
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(1250 mils, 2150 mils): Symbol IC2 [TXS02612RTWR]
+[lib_symbol_mismatch]: Symbol 'TXS02612RTWR' doesn't match copy in library 'rtl'
+    ; warning
+    @(1250 mils, 2150 mils): Symbol IC2 [TXS02612RTWR]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5300 mils, 5300 mils): Label 'CEC_CLK'
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(7500 mils, 2150 mils): Symbol IC3 [TUSB1210BRHB]
+[lib_symbol_mismatch]: Symbol 'TUSB1210BRHB' doesn't match copy in library 'rtl'
+    ; warning
+    @(7500 mils, 2150 mils): Symbol IC3 [TUSB1210BRHB]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6250 mils, 4950 mils): Label 'HD_SPDIFO'
+[net_not_bus_member]: Net /INTERFACES/HD_SPDIFO is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(6350 mils, 4950 mils): Bus to Wire Entry
+    @(6450 mils, 4850 mils): Vertical Bus, length 700 mils
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(2000 mils, 8000 mils): Symbol IC1 [ADV7511KSTZ]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(10900 mils, 2200 mils): Symbol IC4 [TPS2051BDBVTG4]
+[lib_symbol_mismatch]: Symbol 'TPS2051BDBVTG4' doesn't match copy in library 'rtl'
+    ; warning
+    @(10900 mils, 2200 mils): Symbol IC4 [TPS2051BDBVTG4]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(12350 mils, 4750 mils): Symbol Y5 [FA-128_40.0000MF20X-K]
+[lib_symbol_mismatch]: Symbol 'FA-128_40.0000MF20X-K' doesn't match copy in library 'rtl'
+    ; warning
+    @(12350 mils, 4750 mils): Symbol Y5 [FA-128_40.0000MF20X-K]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(11200 mils, 7150 mils): Symbol IC9 [88E1512-XX-NNP2I000]
+[lib_symbol_mismatch]: Symbol '88E1512-XX-NNP2I000' doesn't match copy in library 'rtl'
+    ; warning
+    @(11200 mils, 7150 mils): Symbol IC9 [88E1512-XX-NNP2I000]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(12800 mils, 3650 mils): Symbol Y3 [SG-8018CA_100.0000M-TJHSA0]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(13800 mils, 1000 mils): Symbol J6 [FH19SC-22S-0.5SH_09_]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 9700 mils): Global Label 'OTG_CLK'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 9800 mils): Global Label 'OTG_DIR'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 9900 mils): Global Label 'OTG_RCLK'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10000 mils): Global Label 'OTG_NXT'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12700 mils, 7650 mils): Label 'LED0'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10100 mils): Global Label 'OTG_D0'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10200 mils): Global Label 'OTG_D1'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10300 mils): Global Label 'OTG_D2'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10400 mils): Global Label 'OTG_D3'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12600 mils, 8300 mils): Label 'LED1'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10500 mils): Global Label 'OTG_D4'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10600 mils): Global Label 'OTG_D5'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10700 mils): Global Label 'OTG_D6'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10800 mils): Global Label 'OTG_D7'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 10900 mils): Global Label 'OTG_STP'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 11000 mils): Global Label 'OTG_RST'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 11100 mils): Global Label 'SD_D0'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 11200 mils): Global Label 'SD_D1'
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(14400 mils, 6150 mils): Symbol J15 [HFJ11-1G02ERL]
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 11300 mils): Global Label 'SD_D2'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 11400 mils): Global Label 'SD_D3'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 11500 mils): Global Label 'SD_CMD'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-10900 mils, 11600 mils): Global Label 'SD_CLK'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 13400 mils): Global Label 'HD_D15'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 13500 mils): Global Label 'HD_D14'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 13600 mils): Global Label 'HD_D13'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 13700 mils): Global Label 'HD_D12'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 13800 mils): Global Label 'HD_D11'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 13900 mils): Global Label 'HD_D10'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14000 mils): Global Label 'HD_D9'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14100 mils): Global Label 'HD_CLK'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14200 mils): Global Label 'HD_D8'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14300 mils): Global Label 'HD_D7'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14400 mils): Global Label 'HD_D6'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14500 mils): Global Label 'HD_D5'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14600 mils): Global Label 'HD_D4'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14700 mils): Global Label 'HD_D3'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14800 mils): Global Label 'HD_D2'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 14900 mils): Global Label 'HD_D1'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-9700 mils, 15900 mils): Global Label 'OTG_OC'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15000 mils): Global Label 'HD_D0'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15100 mils): Global Label 'HD_DE'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14250 mils): Global Label 'ETH_RX_CTRL'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15200 mils): Global Label 'HD_HSYNC'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14350 mils): Global Label 'ETH_RXD_0'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15300 mils): Global Label 'HD_VSYNC'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14450 mils): Global Label 'ETH_RXD_1'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15400 mils): Global Label 'HD_SPDIF'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14550 mils): Global Label 'ETH_RX_CLK'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15500 mils): Global Label 'HD_SCL'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14650 mils): Global Label 'ETH_RXD_2'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15600 mils): Global Label 'HD_SDA'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14750 mils): Global Label 'ETH_RXD_3'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-11100 mils, 15700 mils): Global Label 'HD_INT'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14850 mils): Global Label 'ETH_MDC'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 14950 mils): Global Label 'ETH_MDIO'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 15050 mils): Global Label 'ETH_TXD_0'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 15150 mils): Global Label 'ETH_TXD_1'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 15250 mils): Global Label 'ETH_TX_CLK'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 15350 mils): Global Label 'ETH_TXD_2'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 15450 mils): Global Label 'ETH_TXD_3'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 15550 mils): Global Label 'ETH_TX_CTRL'
+[global_label_dangling]: Global label not connected anywhere else in the schematic
+    ; warning
+    @(-12250 mils, 15650 mils): Global Label 'ETH_RESET'
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(4400 mils, 1200 mils): Symbol IC7 [MT41K128M16JT-125]
+[lib_symbol_mismatch]: Symbol 'MT41K128M16JT-125' doesn't match copy in library 'SamacSys_Parts'
+    ; warning
+    @(4400 mils, 1200 mils): Symbol IC7 [MT41K128M16JT-125]
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(1450 mils, 5750 mils): Symbol U1 [XC7Z020CLG484]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(8650 mils, 1200 mils): Symbol IC5 [MT41K128M16JT-125]
+[lib_symbol_mismatch]: Symbol 'MT41K128M16JT-125' doesn't match copy in library 'SamacSys_Parts'
+    ; warning
+    @(8650 mils, 1200 mils): Symbol IC5 [MT41K128M16JT-125]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(5050 mils, 1750 mils): Symbol J14 [DF40C-100DS-0.4V_51_]
+[net_not_bus_member]: Net /GPIO/GPIO_25_1 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 5850 mils): Bus to Wire Entry
+    @(4200 mils, 5950 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /GPIO/GPIO_25_2 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 5950 mils): Bus to Wire Entry
+    @(4200 mils, 6050 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /GPIO/GPIO_25_3 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 6050 mils): Bus to Wire Entry
+    @(4200 mils, 6050 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /GPIO/GPIO_25_4 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 6150 mils): Bus to Wire Entry
+    @(4200 mils, 6250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 3350 mils): Label 'GPIO_33_1'
+[net_not_bus_member]: Net /GPIO/GPIO_33_1 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 3350 mils): Bus to Wire Entry
+    @(6800 mils, 3250 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /GPIO/GPIO_25_5 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 6250 mils): Bus to Wire Entry
+    @(4200 mils, 6250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 3450 mils): Label 'GPIO_33_2'
+[net_not_bus_member]: Net /GPIO/GPIO_33_2 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 3450 mils): Bus to Wire Entry
+    @(6800 mils, 3350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 3550 mils): Label 'GPIO_33_3'
+[net_not_bus_member]: Net /GPIO/GPIO_33_3 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 3550 mils): Bus to Wire Entry
+    @(6800 mils, 3450 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /GPIO/GPIO_25_6 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 6350 mils): Bus to Wire Entry
+    @(4200 mils, 6350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 3650 mils): Label 'GPIO_33_4'
+[net_not_bus_member]: Net /GPIO/GPIO_33_4 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 3650 mils): Bus to Wire Entry
+    @(6800 mils, 3450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 3750 mils): Label 'GPIO_33_5'
+[net_not_bus_member]: Net /GPIO/GPIO_33_5 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 3750 mils): Bus to Wire Entry
+    @(6800 mils, 3550 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /GPIO/GPIO_25_7 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 6450 mils): Bus to Wire Entry
+    @(4200 mils, 6450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 3850 mils): Label 'GPIO_33_6'
+[net_not_bus_member]: Net /GPIO/GPIO_33_6 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 3850 mils): Bus to Wire Entry
+    @(6800 mils, 3750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 3950 mils): Label 'GPIO_33_7'
+[net_not_bus_member]: Net /GPIO/GPIO_33_7 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 3950 mils): Bus to Wire Entry
+    @(6800 mils, 3850 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /GPIO/GPIO_25_8 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(4200 mils, 6550 mils): Bus to Wire Entry
+    @(4200 mils, 6550 mils): Vertical Bus, length 350 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 5950 mils): Label 'GPIO_25_1'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4050 mils): Label 'GPIO_33_8'
+[net_not_bus_member]: Net /GPIO/GPIO_33_8 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4050 mils): Bus to Wire Entry
+    @(6800 mils, 3850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 6050 mils): Label 'GPIO_25_2'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4150 mils): Label 'GPIO_33_9'
+[net_not_bus_member]: Net /GPIO/GPIO_33_9 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4150 mils): Bus to Wire Entry
+    @(6800 mils, 4050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4250 mils): Label 'GPIO_33_10'
+[net_not_bus_member]: Net /GPIO/GPIO_33_10 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4250 mils): Bus to Wire Entry
+    @(6800 mils, 4050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 6150 mils): Label 'GPIO_25_3'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4350 mils): Label 'GPIO_33_11'
+[net_not_bus_member]: Net /GPIO/GPIO_33_11 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4350 mils): Bus to Wire Entry
+    @(6800 mils, 4250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 6250 mils): Label 'GPIO_25_4'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4450 mils): Label 'GPIO_33_12'
+[net_not_bus_member]: Net /GPIO/GPIO_33_12 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4450 mils): Bus to Wire Entry
+    @(6800 mils, 4250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4550 mils): Label 'GPIO_33_13'
+[net_not_bus_member]: Net /GPIO/GPIO_33_13 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4550 mils): Bus to Wire Entry
+    @(6800 mils, 4450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 6350 mils): Label 'GPIO_25_5'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4650 mils): Label 'GPIO_33_14'
+[net_not_bus_member]: Net /GPIO/GPIO_33_14 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4650 mils): Bus to Wire Entry
+    @(6800 mils, 4450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 6450 mils): Label 'GPIO_25_6'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4750 mils): Label 'GPIO_33_15'
+[net_not_bus_member]: Net /GPIO/GPIO_33_15 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4750 mils): Bus to Wire Entry
+    @(6800 mils, 4650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 6550 mils): Label 'GPIO_25_7'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4850 mils): Label 'GPIO_33_16'
+[net_not_bus_member]: Net /GPIO/GPIO_33_16 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4850 mils): Bus to Wire Entry
+    @(6800 mils, 4750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 4950 mils): Label 'GPIO_33_17'
+[net_not_bus_member]: Net /GPIO/GPIO_33_17 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 4950 mils): Bus to Wire Entry
+    @(6800 mils, 4850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5050 mils, 6650 mils): Label 'GPIO_25_8'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5050 mils): Label 'GPIO_33_18'
+[net_not_bus_member]: Net /GPIO/GPIO_33_18 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5050 mils): Bus to Wire Entry
+    @(6800 mils, 4950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5150 mils): Label 'GPIO_33_19'
+[net_not_bus_member]: Net /GPIO/GPIO_33_19 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5150 mils): Bus to Wire Entry
+    @(6800 mils, 4950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5250 mils): Label 'GPIO_33_20'
+[net_not_bus_member]: Net /GPIO/GPIO_33_20 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5250 mils): Bus to Wire Entry
+    @(6800 mils, 5150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5350 mils): Label 'GPIO_33_21'
+[net_not_bus_member]: Net /GPIO/GPIO_33_21 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5350 mils): Bus to Wire Entry
+    @(6800 mils, 5150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5450 mils): Label 'GPIO_33_22'
+[net_not_bus_member]: Net /GPIO/GPIO_33_22 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5450 mils): Bus to Wire Entry
+    @(6800 mils, 5350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5550 mils): Label 'GPIO_33_23'
+[net_not_bus_member]: Net /GPIO/GPIO_33_23 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5550 mils): Bus to Wire Entry
+    @(6800 mils, 5450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5650 mils): Label 'GPIO_33_24'
+[net_not_bus_member]: Net /GPIO/GPIO_33_24 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5650 mils): Bus to Wire Entry
+    @(6800 mils, 5450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5750 mils): Label 'GPIO_33_25'
+[net_not_bus_member]: Net /GPIO/GPIO_33_25 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5750 mils): Bus to Wire Entry
+    @(6800 mils, 5650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5850 mils): Label 'GPIO_33_26'
+[net_not_bus_member]: Net /GPIO/GPIO_33_26 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5850 mils): Bus to Wire Entry
+    @(6800 mils, 5750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 5950 mils): Label 'GPIO_33_27'
+[net_not_bus_member]: Net /GPIO/GPIO_33_27 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 5950 mils): Bus to Wire Entry
+    @(6800 mils, 5750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 6050 mils): Label 'GPIO_33_28'
+[net_not_bus_member]: Net /GPIO/GPIO_33_28 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 6050 mils): Bus to Wire Entry
+    @(6800 mils, 5850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 6150 mils): Label 'GPIO_33_29'
+[net_not_bus_member]: Net /GPIO/GPIO_33_29 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 6150 mils): Bus to Wire Entry
+    @(6800 mils, 6050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 6250 mils): Label 'GPIO_33_30'
+[net_not_bus_member]: Net /GPIO/GPIO_33_30 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 6250 mils): Bus to Wire Entry
+    @(6800 mils, 6150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 6350 mils): Label 'GPIO_33_31'
+[net_not_bus_member]: Net /GPIO/GPIO_33_31 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 6350 mils): Bus to Wire Entry
+    @(6800 mils, 6150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 6450 mils): Label 'GPIO_33_32'
+[net_not_bus_member]: Net /GPIO/GPIO_33_32 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 6450 mils): Bus to Wire Entry
+    @(6800 mils, 6350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 6550 mils): Label 'GPIO_33_33'
+[net_not_bus_member]: Net /GPIO/GPIO_33_33 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 6550 mils): Bus to Wire Entry
+    @(6800 mils, 6450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6700 mils, 6650 mils): Label 'GPIO_33_34'
+[net_not_bus_member]: Net /GPIO/GPIO_33_34 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(6700 mils, 6650 mils): Bus to Wire Entry
+    @(6800 mils, 6550 mils): Vertical Bus, length 350 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(1450 mils, 2900 mils): Symbol U1 [XC7Z020CLG484]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(1650 mils, 3100 mils): Horizontal Wire, length 500 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1050 mils): Label 'ETH_TX_CLK'
+[net_not_bus_member]: Net /FPGA/ETH_TX_CLK is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1050 mils): Bus to Wire Entry
+    @(4650 mils, 900 mils): Vertical Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1150 mils): Label 'ETH_TXD_0'
+[net_not_bus_member]: Net /FPGA/ETH_TXD_0 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1150 mils): Bus to Wire Entry
+    @(4650 mils, 1050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1250 mils): Label 'ETH_TXD_1'
+[net_not_bus_member]: Net /FPGA/ETH_TXD_1 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1250 mils): Bus to Wire Entry
+    @(4650 mils, 1050 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(3850 mils, 2750 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1350 mils): Label 'ETH_TXD_2'
+[net_not_bus_member]: Net /FPGA/ETH_TXD_2 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1350 mils): Bus to Wire Entry
+    @(4650 mils, 1250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1450 mils): Label 'ETH_TXD_3'
+[net_not_bus_member]: Net /FPGA/ETH_TXD_3 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1450 mils): Bus to Wire Entry
+    @(4650 mils, 1250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1550 mils): Label 'ETH_TX_CTRL'
+[net_not_bus_member]: Net /FPGA/ETH_TX_CTRL is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1550 mils): Bus to Wire Entry
+    @(4650 mils, 1350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1650 mils): Label 'ETH_RX_CLK'
+[net_not_bus_member]: Net /FPGA/ETH_RX_CLK is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1650 mils): Bus to Wire Entry
+    @(4650 mils, 1550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1750 mils): Label 'ETH_RXD_0'
+[net_not_bus_member]: Net /FPGA/ETH_RXD_0 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1750 mils): Bus to Wire Entry
+    @(4650 mils, 1650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1850 mils): Label 'ETH_RXD_1'
+[net_not_bus_member]: Net /FPGA/ETH_RXD_1 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1850 mils): Bus to Wire Entry
+    @(4650 mils, 1750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 1950 mils): Label 'ETH_RXD_2'
+[net_not_bus_member]: Net /FPGA/ETH_RXD_2 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 1950 mils): Bus to Wire Entry
+    @(4650 mils, 1750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 2050 mils): Label 'ETH_RXD_3'
+[net_not_bus_member]: Net /FPGA/ETH_RXD_3 is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 2050 mils): Bus to Wire Entry
+    @(4650 mils, 1950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2250 mils): Label 'OTG_D4'
+[net_not_bus_member]: Net /FPGA/OTG_D4 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2250 mils): Bus to Wire Entry
+    @(4600 mils, 2150 mils): Vertical Bus, length 200 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 2150 mils): Label 'ETH_RX_CTRL'
+[net_not_bus_member]: Net /FPGA/ETH_RX_CTRL is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 2150 mils): Bus to Wire Entry
+    @(4650 mils, 1950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2350 mils): Label 'OTG_DIR'
+[net_not_bus_member]: Net /FPGA/OTG_DIR is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2350 mils): Bus to Wire Entry
+    @(4600 mils, 2350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2450 mils): Label 'OTG_STP'
+[net_not_bus_member]: Net /FPGA/OTG_STP is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2450 mils): Bus to Wire Entry
+    @(4600 mils, 2550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2550 mils): Label 'OTG_NXT'
+[net_not_bus_member]: Net /FPGA/OTG_NXT is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2550 mils): Bus to Wire Entry
+    @(4600 mils, 2550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2650 mils): Label 'OTG_D0'
+[net_not_bus_member]: Net /FPGA/OTG_D0 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2650 mils): Bus to Wire Entry
+    @(4600 mils, 2750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2750 mils): Label 'OTG_D1'
+[net_not_bus_member]: Net /FPGA/OTG_D1 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2750 mils): Bus to Wire Entry
+    @(4600 mils, 2750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2850 mils): Label 'OTG_D2'
+[net_not_bus_member]: Net /FPGA/OTG_D2 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2850 mils): Bus to Wire Entry
+    @(4600 mils, 2950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 2950 mils): Label 'OTG_D3'
+[net_not_bus_member]: Net /FPGA/OTG_D3 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 2950 mils): Bus to Wire Entry
+    @(4600 mils, 3050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3050 mils): Label 'OTG_CLK'
+[net_not_bus_member]: Net /FPGA/OTG_CLK is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3050 mils): Bus to Wire Entry
+    @(4600 mils, 3050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3150 mils): Label 'OTG_D5'
+[net_not_bus_member]: Net /FPGA/OTG_D5 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3150 mils): Bus to Wire Entry
+    @(4600 mils, 3250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3250 mils): Label 'OTG_D6'
+[net_not_bus_member]: Net /FPGA/OTG_D6 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3250 mils): Bus to Wire Entry
+    @(4600 mils, 3350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3350 mils): Label 'OTG_D7'
+[net_not_bus_member]: Net /FPGA/OTG_D7 is graphically connected to bus /FPGA/{OTG} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3350 mils): Bus to Wire Entry
+    @(4600 mils, 3350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3450 mils): Label 'SD_CLK'
+[net_not_bus_member]: Net /FPGA/SD_CLK is graphically connected to bus /FPGA/{SD} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3450 mils): Bus to Wire Entry
+    @(4600 mils, 3550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3550 mils): Label 'SD_CMD'
+[net_not_bus_member]: Net /FPGA/SD_CMD is graphically connected to bus /FPGA/{SD} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3550 mils): Bus to Wire Entry
+    @(4600 mils, 3550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3650 mils): Label 'SD_D0'
+[net_not_bus_member]: Net /FPGA/SD_D0 is graphically connected to bus /FPGA/{SD} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3650 mils): Bus to Wire Entry
+    @(4600 mils, 3750 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(5550 mils, 1700 mils): Symbol U1 [XC7Z020CLG484]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(1400 mils, 5650 mils): Symbol IC8 [S25FL256SAGNFI001]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3750 mils): Label 'SD_D1'
+[net_not_bus_member]: Net /FPGA/SD_D1 is graphically connected to bus /FPGA/{SD} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3750 mils): Bus to Wire Entry
+    @(4600 mils, 3750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3850 mils): Label 'SD_D2'
+[net_not_bus_member]: Net /FPGA/SD_D2 is graphically connected to bus /FPGA/{SD} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3850 mils): Bus to Wire Entry
+    @(4600 mils, 3950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4500 mils, 3950 mils): Label 'SD_D3'
+[net_not_bus_member]: Net /FPGA/SD_D3 is graphically connected to bus /FPGA/{SD} but is not a member of that bus
+    ; warning
+    @(4500 mils, 3950 mils): Bus to Wire Entry
+    @(4600 mils, 4050 mils): Vertical Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5750 mils, 1800 mils): Label 'INIT_B'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(5000 mils, 3700 mils): Vertical Wire, length 50 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(5550 mils, 2950 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 4650 mils): Label 'ETH_MDC'
+[net_not_bus_member]: Net /FPGA/ETH_MDC is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 4650 mils): Bus to Wire Entry
+    @(4650 mils, 4550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4550 mils, 4750 mils): Label 'ETH_MDIO'
+[net_not_bus_member]: Net /FPGA/ETH_MDIO is graphically connected to bus /FPGA/{ETH} but is not a member of that bus
+    ; warning
+    @(4550 mils, 4750 mils): Bus to Wire Entry
+    @(4650 mils, 4550 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(5650 mils, 3750 mils): Symbol Y4 [SG-8018CA_100.0000M-TJHSA0]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(6100 mils, 4650 mils): Symbol Y2 [SG-8018CA_100.0000M-TJHSA0]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(5550 mils, 5450 mils): Label 'PLLMODE(6)'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(7700 mils, 3300 mils): Vertical Wire, length 300 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(9950 mils, 3550 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 1950 mils): Label 'AD_CO6'
+[net_not_bus_member]: Net /FPGA/AD_CO6 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 1950 mils): Bus to Wire Entry
+    @(10750 mils, 1850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 2050 mils): Label 'AD_CO7'
+[net_not_bus_member]: Net /FPGA/AD_CO7 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 2050 mils): Bus to Wire Entry
+    @(10750 mils, 1850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 2150 mils): Label 'AD_EN_AGC'
+[net_not_bus_member]: Net /FPGA/AD_EN_AGC is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(10650 mils, 2150 mils): Bus to Wire Entry
+    @(10750 mils, 2050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 2250 mils): Label 'AD_SYNC_IN'
+[net_not_bus_member]: Net /FPGA/AD_SYNC_IN is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(10650 mils, 2250 mils): Bus to Wire Entry
+    @(10750 mils, 2050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 2350 mils): Label 'AD_SPI_EN'
+[net_not_bus_member]: Net /FPGA/AD_SPI_EN is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(10650 mils, 2350 mils): Bus to Wire Entry
+    @(10750 mils, 2250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 2650 mils): Label 'GPIO_25_1'
+[net_not_bus_member]: Net /FPGA/GPIO_25_1 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 2650 mils): Bus to Wire Entry
+    @(10700 mils, 2550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 2450 mils): Label 'AD_SPI_SCLK'
+[net_not_bus_member]: Net /FPGA/AD_SPI_SCLK is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(10650 mils, 2450 mils): Bus to Wire Entry
+    @(10750 mils, 2350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 2750 mils): Label 'GPIO_25_2'
+[net_not_bus_member]: Net /FPGA/GPIO_25_2 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 2750 mils): Bus to Wire Entry
+    @(10700 mils, 2650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10450 mils, 3350 mils): Label 'AD_CI0'
+[net_not_bus_member]: Net /FPGA/AD_CI0 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(10450 mils, 3350 mils): Bus to Wire Entry
+    @(10550 mils, 3450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 2850 mils): Label 'GPIO_25_3'
+[net_not_bus_member]: Net /FPGA/GPIO_25_3 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 2850 mils): Bus to Wire Entry
+    @(10700 mils, 2750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 2950 mils): Label 'GPIO_25_4'
+[net_not_bus_member]: Net /FPGA/GPIO_25_4 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 2950 mils): Bus to Wire Entry
+    @(10700 mils, 2850 mils): Vertical Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10450 mils, 3450 mils): Label 'AD_CI1'
+[net_not_bus_member]: Net /FPGA/AD_CI1 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(10450 mils, 3450 mils): Bus to Wire Entry
+    @(10550 mils, 3550 mils): Horizontal Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 3150 mils): Label 'AD_RESET'
+[net_not_bus_member]: Net /FPGA/AD_RESET is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(10600 mils, 3150 mils): Bus to Wire Entry
+    @(10700 mils, 3250 mils): Vertical Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 3750 mils): Label 'GPIO_25_5'
+[net_not_bus_member]: Net /FPGA/GPIO_25_5 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 3750 mils): Bus to Wire Entry
+    @(10700 mils, 3650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 3850 mils): Label 'GPIO_25_6'
+[net_not_bus_member]: Net /FPGA/GPIO_25_6 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 3850 mils): Bus to Wire Entry
+    @(10700 mils, 3850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 3950 mils): Label 'GPIO_25_7'
+[net_not_bus_member]: Net /FPGA/GPIO_25_7 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 3950 mils): Bus to Wire Entry
+    @(10700 mils, 3850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10600 mils, 4050 mils): Label 'GPIO_25_8'
+[net_not_bus_member]: Net /FPGA/GPIO_25_8 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(10600 mils, 4050 mils): Bus to Wire Entry
+    @(10700 mils, 3850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 4550 mils): Label 'AD_CI2'
+[net_not_bus_member]: Net /FPGA/AD_CI2 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(10650 mils, 4550 mils): Bus to Wire Entry
+    @(10750 mils, 4650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 4650 mils): Label 'AD_CI3'
+[net_not_bus_member]: Net /FPGA/AD_CI3 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(10650 mils, 4650 mils): Bus to Wire Entry
+    @(10750 mils, 4750 mils): Horizontal Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 4750 mils): Label 'AD_SPI_MISO'
+[net_not_bus_member]: Net /FPGA/AD_SPI_MISO is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(10650 mils, 4750 mils): Bus to Wire Entry
+    @(10750 mils, 4850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 4850 mils): Label 'AD_SPI_MOSI'
+[net_not_bus_member]: Net /FPGA/AD_SPI_MOSI is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(10650 mils, 4850 mils): Bus to Wire Entry
+    @(10750 mils, 4950 mils): Horizontal Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 5350 mils): Label 'AD_CO4'
+[net_not_bus_member]: Net /FPGA/AD_CO4 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 5350 mils): Bus to Wire Entry
+    @(10750 mils, 5450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 5450 mils): Label 'AD_CO5'
+[net_not_bus_member]: Net /FPGA/AD_CO5 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 5450 mils): Bus to Wire Entry
+    @(10750 mils, 5550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 5550 mils): Label 'AD_CO2'
+[net_not_bus_member]: Net /FPGA/AD_CO2 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 5550 mils): Bus to Wire Entry
+    @(10750 mils, 5650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 5650 mils): Label 'AD_CO3'
+[net_not_bus_member]: Net /FPGA/AD_CO3 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 5650 mils): Bus to Wire Entry
+    @(10750 mils, 5650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 5750 mils): Label 'AD_CO0'
+[net_not_bus_member]: Net /FPGA/AD_CO0 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 5750 mils): Bus to Wire Entry
+    @(10750 mils, 5850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10650 mils, 5850 mils): Label 'AD_CO1'
+[net_not_bus_member]: Net /FPGA/AD_CO1 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10650 mils, 5850 mils): Bus to Wire Entry
+    @(10750 mils, 5850 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(11750 mils, 3450 mils): Symbol U1 [XC7Z020CLG484]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(5850 mils, 10900 mils): Vertical Wire, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 1650 mils): Label 'AD_TX_D5_P'
+[net_not_bus_member]: Net /FPGA/AD_TX_D5_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 1650 mils): Bus to Wire Entry
+    @(12550 mils, 1750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 1750 mils): Label 'AD_TX_D5_N'
+[net_not_bus_member]: Net /FPGA/AD_TX_D5_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 1750 mils): Bus to Wire Entry
+    @(12550 mils, 1850 mils): Vertical Bus, length 300 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2050 mils): Label 'AD_TX_D2_P'
+[net_not_bus_member]: Net /FPGA/AD_TX_D2_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2050 mils): Bus to Wire Entry
+    @(12550 mils, 1850 mils): Vertical Bus, length 300 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2150 mils): Label 'AD_TX_D2_N'
+[net_not_bus_member]: Net /FPGA/AD_TX_D2_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2150 mils): Bus to Wire Entry
+    @(12550 mils, 2150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2250 mils): Label 'AD_TX_D0_P'
+[net_not_bus_member]: Net /FPGA/AD_TX_D0_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2250 mils): Bus to Wire Entry
+    @(12550 mils, 2350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2350 mils): Label 'AD_TX_D0_N'
+[net_not_bus_member]: Net /FPGA/AD_TX_D0_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2350 mils): Bus to Wire Entry
+    @(12550 mils, 2450 mils): Vertical Bus, length 300 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2650 mils): Label 'AD_RX_D3_P'
+[net_not_bus_member]: Net /FPGA/AD_RX_D3_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2650 mils): Bus to Wire Entry
+    @(12550 mils, 2750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2750 mils): Label 'AD_RX_D3_N'
+[net_not_bus_member]: Net /FPGA/AD_RX_D3_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2750 mils): Bus to Wire Entry
+    @(12550 mils, 2850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2850 mils): Label 'AD_FB_CLK_P'
+[net_not_bus_member]: Net /FPGA/AD_FB_CLK_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2850 mils): Bus to Wire Entry
+    @(12550 mils, 2850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 2950 mils): Label 'AD_FB_CLK_N'
+[net_not_bus_member]: Net /FPGA/AD_FB_CLK_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 2950 mils): Bus to Wire Entry
+    @(12550 mils, 3050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3050 mils): Label 'AD_ENABLE'
+[net_not_bus_member]: Net /FPGA/AD_ENABLE is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3050 mils): Bus to Wire Entry
+    @(12550 mils, 3050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3150 mils): Label 'AD_TXNRX'
+[net_not_bus_member]: Net /FPGA/AD_TXNRX is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3150 mils): Bus to Wire Entry
+    @(12550 mils, 3150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3250 mils): Label 'AD_RX_D4_P'
+[net_not_bus_member]: Net /FPGA/AD_RX_D4_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3250 mils): Bus to Wire Entry
+    @(12550 mils, 3350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3350 mils): Label 'AD_RX_D4_N'
+[net_not_bus_member]: Net /FPGA/AD_RX_D4_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3350 mils): Bus to Wire Entry
+    @(12550 mils, 3450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3450 mils): Label 'AD_TX_D4_P'
+[net_not_bus_member]: Net /FPGA/AD_TX_D4_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3450 mils): Bus to Wire Entry
+    @(12550 mils, 3550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3550 mils): Label 'AD_TX_D4_N'
+[net_not_bus_member]: Net /FPGA/AD_TX_D4_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3550 mils): Bus to Wire Entry
+    @(12550 mils, 3650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3650 mils): Label 'AD_CLK_OUT'
+[net_not_bus_member]: Net /FPGA/AD_CLK_OUT is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3650 mils): Bus to Wire Entry
+    @(12550 mils, 3650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3850 mils): Label 'AD_DATA_CLK_P'
+[net_not_bus_member]: Net /FPGA/AD_DATA_CLK_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3850 mils): Bus to Wire Entry
+    @(12550 mils, 3950 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(10250 mils, 8050 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 3950 mils): Label 'AD_DATA_CLK_N'
+[net_not_bus_member]: Net /FPGA/AD_DATA_CLK_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 3950 mils): Bus to Wire Entry
+    @(12550 mils, 3950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4050 mils): Label 'AD_RX_FRA_P'
+[net_not_bus_member]: Net /FPGA/AD_RX_FRA_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4050 mils): Bus to Wire Entry
+    @(12550 mils, 4150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4150 mils): Label 'AD_RX_FRA_N'
+[net_not_bus_member]: Net /FPGA/AD_RX_FRA_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4150 mils): Bus to Wire Entry
+    @(12550 mils, 4250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4250 mils): Label 'AD_RX_D2_P'
+[net_not_bus_member]: Net /FPGA/AD_RX_D2_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4250 mils): Bus to Wire Entry
+    @(12550 mils, 4350 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4350 mils): Label 'AD_RX_D2_N'
+[net_not_bus_member]: Net /FPGA/AD_RX_D2_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4350 mils): Bus to Wire Entry
+    @(12550 mils, 4450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4450 mils): Label 'AD_RX_D1_P'
+[net_not_bus_member]: Net /FPGA/AD_RX_D1_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4450 mils): Bus to Wire Entry
+    @(12550 mils, 4550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4550 mils): Label 'AD_RX_D1_N'
+[net_not_bus_member]: Net /FPGA/AD_RX_D1_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4550 mils): Bus to Wire Entry
+    @(12550 mils, 4650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4650 mils): Label 'AD_TX_FRA_P'
+[net_not_bus_member]: Net /FPGA/AD_TX_FRA_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4650 mils): Bus to Wire Entry
+    @(12550 mils, 4650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4750 mils): Label 'AD_TX_FRA_N'
+[net_not_bus_member]: Net /FPGA/AD_TX_FRA_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4750 mils): Bus to Wire Entry
+    @(12550 mils, 4850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4850 mils): Label 'AD_TX_D1_P'
+[net_not_bus_member]: Net /FPGA/AD_TX_D1_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4850 mils): Bus to Wire Entry
+    @(12550 mils, 4950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 4950 mils): Label 'AD_TX_D1_N'
+[net_not_bus_member]: Net /FPGA/AD_TX_D1_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 4950 mils): Bus to Wire Entry
+    @(12550 mils, 5050 mils): Vertical Bus, length 300 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 5250 mils): Label 'AD_RX_D0_P'
+[net_not_bus_member]: Net /FPGA/AD_RX_D0_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 5250 mils): Bus to Wire Entry
+    @(12550 mils, 5050 mils): Vertical Bus, length 300 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 5350 mils): Label 'AD_RX_D0_N'
+[net_not_bus_member]: Net /FPGA/AD_RX_D0_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 5350 mils): Bus to Wire Entry
+    @(12550 mils, 5450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 5450 mils): Label 'AD_RX_D5_P'
+[net_not_bus_member]: Net /FPGA/AD_RX_D5_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 5450 mils): Bus to Wire Entry
+    @(12550 mils, 5450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 5550 mils): Label 'AD_RX_D5_N'
+[net_not_bus_member]: Net /FPGA/AD_RX_D5_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 5550 mils): Bus to Wire Entry
+    @(12550 mils, 5550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 5650 mils): Label 'AD_TX_D3_P'
+[net_not_bus_member]: Net /FPGA/AD_TX_D3_P is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 5650 mils): Bus to Wire Entry
+    @(12550 mils, 5750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(12450 mils, 5750 mils): Label 'AD_TX_D3_N'
+[net_not_bus_member]: Net /FPGA/AD_TX_D3_N is graphically connected to bus /FPGA/{AD_INTERFACE} but is not a member of that bus
+    ; warning
+    @(12450 mils, 5750 mils): Bus to Wire Entry
+    @(12550 mils, 5850 mils): Vertical Bus, length 200 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(11150 mils, 8050 mils): Symbol U1 [XC7Z020CLG484]
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(13750 mils, 3600 mils): Symbol U1 [XC7Z020CLG484]
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(12250 mils, 8050 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 3800 mils): Label 'HD_SPDIFO'
+[net_not_bus_member]: Net /FPGA/HD_SPDIFO is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 3800 mils): Bus to Wire Entry
+    @(14500 mils, 3900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 3900 mils): Label 'HD_SCL'
+[net_not_bus_member]: Net /FPGA/HD_SCL is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 3900 mils): Bus to Wire Entry
+    @(14500 mils, 3900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4000 mils): Label 'HD_VSYNC'
+[net_not_bus_member]: Net /FPGA/HD_VSYNC is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4000 mils): Bus to Wire Entry
+    @(14500 mils, 4100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4100 mils): Label 'HD_CLK'
+[net_not_bus_member]: Net /FPGA/HD_CLK is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4100 mils): Bus to Wire Entry
+    @(14500 mils, 4200 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4200 mils): Label 'HD_INT'
+[net_not_bus_member]: Net /FPGA/HD_INT is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4200 mils): Bus to Wire Entry
+    @(14500 mils, 4300 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4300 mils): Label 'HD_SDA'
+[net_not_bus_member]: Net /FPGA/HD_SDA is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4300 mils): Bus to Wire Entry
+    @(14500 mils, 4400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4400 mils): Label 'HD_SPDIF'
+[net_not_bus_member]: Net /FPGA/HD_SPDIF is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4400 mils): Bus to Wire Entry
+    @(14500 mils, 4500 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4500 mils): Label 'HD_DE'
+[net_not_bus_member]: Net /FPGA/HD_DE is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4500 mils): Bus to Wire Entry
+    @(14500 mils, 4600 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4600 mils): Label 'HD_D13'
+[net_not_bus_member]: Net /FPGA/HD_D13 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4600 mils): Bus to Wire Entry
+    @(14500 mils, 4700 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4700 mils): Label 'HD_HSYNC'
+[net_not_bus_member]: Net /FPGA/HD_HSYNC is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4700 mils): Bus to Wire Entry
+    @(14500 mils, 4800 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4800 mils): Label 'HD_D8'
+[net_not_bus_member]: Net /FPGA/HD_D8 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4800 mils): Bus to Wire Entry
+    @(14500 mils, 4900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 4900 mils): Label 'HD_D7'
+[net_not_bus_member]: Net /FPGA/HD_D7 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 4900 mils): Bus to Wire Entry
+    @(14500 mils, 5000 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5000 mils): Label 'HD_D6'
+[net_not_bus_member]: Net /FPGA/HD_D6 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5000 mils): Bus to Wire Entry
+    @(14500 mils, 5000 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5100 mils): Label 'HD_D5'
+[net_not_bus_member]: Net /FPGA/HD_D5 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5100 mils): Bus to Wire Entry
+    @(14500 mils, 5200 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5200 mils): Label 'HD_D14'
+[net_not_bus_member]: Net /FPGA/HD_D14 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5200 mils): Bus to Wire Entry
+    @(14500 mils, 5200 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5300 mils): Label 'HD_D12'
+[net_not_bus_member]: Net /FPGA/HD_D12 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5300 mils): Bus to Wire Entry
+    @(14500 mils, 5300 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(13100 mils, 8050 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5400 mils): Label 'HD_D15'
+[net_not_bus_member]: Net /FPGA/HD_D15 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5400 mils): Bus to Wire Entry
+    @(14500 mils, 5500 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5500 mils): Label 'HD_D10'
+[net_not_bus_member]: Net /FPGA/HD_D10 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5500 mils): Bus to Wire Entry
+    @(14500 mils, 5600 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5600 mils): Label 'HD_D11'
+[net_not_bus_member]: Net /FPGA/HD_D11 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5600 mils): Bus to Wire Entry
+    @(14500 mils, 5600 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5700 mils): Label 'HD_D9'
+[net_not_bus_member]: Net /FPGA/HD_D9 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5700 mils): Bus to Wire Entry
+    @(14500 mils, 5800 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5800 mils): Label 'HD_D3'
+[net_not_bus_member]: Net /FPGA/HD_D3 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5800 mils): Bus to Wire Entry
+    @(14500 mils, 5800 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 5900 mils): Label 'HD_D2'
+[net_not_bus_member]: Net /FPGA/HD_D2 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 5900 mils): Bus to Wire Entry
+    @(14500 mils, 6000 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 6000 mils): Label 'HD_D0'
+[net_not_bus_member]: Net /FPGA/HD_D0 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 6000 mils): Bus to Wire Entry
+    @(14500 mils, 6000 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 6100 mils): Label 'HD_D1'
+[net_not_bus_member]: Net /FPGA/HD_D1 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 6100 mils): Bus to Wire Entry
+    @(14500 mils, 6200 mils): Vertical Bus, length 200 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(15250 mils, 3600 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(14400 mils, 6300 mils): Label 'HD_D4'
+[net_not_bus_member]: Net /FPGA/HD_D4 is graphically connected to bus /FPGA/{HDMI} but is not a member of that bus
+    ; warning
+    @(14400 mils, 6300 mils): Bus to Wire Entry
+    @(14500 mils, 6200 mils): Vertical Bus, length 200 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15750 mils, 1500 mils): Label 'AD_SCL'
+[net_not_bus_member]: Net /FPGA/AD_SCL is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(15750 mils, 1500 mils): Bus to Wire Entry
+    @(15850 mils, 1350 mils): Vertical Bus, length 50 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(12850 mils, 9450 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 1800 mils): Label 'GPIO_33_1'
+[net_not_bus_member]: Net /FPGA/GPIO_33_1 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 1800 mils): Bus to Wire Entry
+    @(16000 mils, 1700 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 1900 mils): Label 'GPIO_33_2'
+[net_not_bus_member]: Net /FPGA/GPIO_33_2 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 1900 mils): Bus to Wire Entry
+    @(16000 mils, 1800 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(13850 mils, 8050 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2000 mils): Label 'GPIO_33_3'
+[net_not_bus_member]: Net /FPGA/GPIO_33_3 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2000 mils): Bus to Wire Entry
+    @(16000 mils, 1900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2100 mils): Label 'GPIO_33_4'
+[net_not_bus_member]: Net /FPGA/GPIO_33_4 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2100 mils): Bus to Wire Entry
+    @(16000 mils, 2000 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2200 mils): Label 'GPIO_33_5'
+[net_not_bus_member]: Net /FPGA/GPIO_33_5 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2200 mils): Bus to Wire Entry
+    @(16000 mils, 2100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2300 mils): Label 'GPIO_33_6'
+[net_not_bus_member]: Net /FPGA/GPIO_33_6 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2300 mils): Bus to Wire Entry
+    @(16000 mils, 2100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2400 mils): Label 'GPIO_33_7'
+[net_not_bus_member]: Net /FPGA/GPIO_33_7 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2400 mils): Bus to Wire Entry
+    @(16000 mils, 2300 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2500 mils): Label 'GPIO_33_8'
+[net_not_bus_member]: Net /FPGA/GPIO_33_8 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2500 mils): Bus to Wire Entry
+    @(16000 mils, 2400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2600 mils): Label 'GPIO_33_9'
+[net_not_bus_member]: Net /FPGA/GPIO_33_9 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2600 mils): Bus to Wire Entry
+    @(16000 mils, 2500 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2700 mils): Label 'GPIO_33_10'
+[net_not_bus_member]: Net /FPGA/GPIO_33_10 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2700 mils): Bus to Wire Entry
+    @(16000 mils, 2600 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2800 mils): Label 'GPIO_33_11'
+[net_not_bus_member]: Net /FPGA/GPIO_33_11 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2800 mils): Bus to Wire Entry
+    @(16000 mils, 2700 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 2900 mils): Label 'GPIO_33_12'
+[net_not_bus_member]: Net /FPGA/GPIO_33_12 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 2900 mils): Bus to Wire Entry
+    @(16000 mils, 2800 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 3000 mils): Label 'GPIO_33_13'
+[net_not_bus_member]: Net /FPGA/GPIO_33_13 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 3000 mils): Bus to Wire Entry
+    @(16000 mils, 2900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 3100 mils): Label 'GPIO_33_14'
+[net_not_bus_member]: Net /FPGA/GPIO_33_14 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 3100 mils): Bus to Wire Entry
+    @(16000 mils, 3000 mils): Vertical Bus, length 200 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 3200 mils): Label 'GPIO_33_15'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 3300 mils): Label 'GPIO_33_16'
+[net_not_bus_member]: Net /FPGA/GPIO_33_16 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 3300 mils): Bus to Wire Entry
+    @(16000 mils, 3200 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4000 mils): Label 'GPIO_33_17'
+[net_not_bus_member]: Net /FPGA/GPIO_33_17 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4000 mils): Bus to Wire Entry
+    @(16000 mils, 3900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4100 mils): Label 'GPIO_33_18'
+[net_not_bus_member]: Net /FPGA/GPIO_33_18 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4100 mils): Bus to Wire Entry
+    @(16000 mils, 3900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4200 mils): Label 'GPIO_33_19'
+[net_not_bus_member]: Net /FPGA/GPIO_33_19 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4200 mils): Bus to Wire Entry
+    @(16000 mils, 4100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4300 mils): Label 'GPIO_33_20'
+[net_not_bus_member]: Net /FPGA/GPIO_33_20 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4300 mils): Bus to Wire Entry
+    @(16000 mils, 4100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4400 mils): Label 'GPIO_33_21'
+[net_not_bus_member]: Net /FPGA/GPIO_33_21 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4400 mils): Bus to Wire Entry
+    @(16000 mils, 4300 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4500 mils): Label 'GPIO_33_22'
+[net_not_bus_member]: Net /FPGA/GPIO_33_22 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4500 mils): Bus to Wire Entry
+    @(16000 mils, 4300 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4600 mils): Label 'GPIO_33_23'
+[net_not_bus_member]: Net /FPGA/GPIO_33_23 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4600 mils): Bus to Wire Entry
+    @(16000 mils, 4400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4700 mils): Label 'GPIO_33_24'
+[net_not_bus_member]: Net /FPGA/GPIO_33_24 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4700 mils): Bus to Wire Entry
+    @(16000 mils, 4600 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4800 mils): Label 'GPIO_33_25'
+[net_not_bus_member]: Net /FPGA/GPIO_33_25 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4800 mils): Bus to Wire Entry
+    @(16000 mils, 4700 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 4900 mils): Label 'GPIO_33_26'
+[net_not_bus_member]: Net /FPGA/GPIO_33_26 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 4900 mils): Bus to Wire Entry
+    @(16000 mils, 4700 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5000 mils): Label 'GPIO_33_27'
+[net_not_bus_member]: Net /FPGA/GPIO_33_27 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5000 mils): Bus to Wire Entry
+    @(16000 mils, 4900 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(14600 mils, 8050 mils): Symbol U1 [XC7Z020CLG484]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5100 mils): Label 'GPIO_33_28'
+[net_not_bus_member]: Net /FPGA/GPIO_33_28 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5100 mils): Bus to Wire Entry
+    @(16000 mils, 5000 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5200 mils): Label 'GPIO_33_29'
+[net_not_bus_member]: Net /FPGA/GPIO_33_29 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5200 mils): Bus to Wire Entry
+    @(16000 mils, 5100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5300 mils): Label 'GPIO_33_30'
+[net_not_bus_member]: Net /FPGA/GPIO_33_30 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5300 mils): Bus to Wire Entry
+    @(16000 mils, 5100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5400 mils): Label 'GPIO_33_31'
+[net_not_bus_member]: Net /FPGA/GPIO_33_31 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5400 mils): Bus to Wire Entry
+    @(16000 mils, 5300 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5500 mils): Label 'GPIO_33_32'
+[net_not_bus_member]: Net /FPGA/GPIO_33_32 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5500 mils): Bus to Wire Entry
+    @(16000 mils, 5300 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5600 mils): Label 'GPIO_33_33'
+[net_not_bus_member]: Net /FPGA/GPIO_33_33 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5600 mils): Bus to Wire Entry
+    @(16000 mils, 5500 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15900 mils, 5700 mils): Label 'GPIO_33_34'
+[net_not_bus_member]: Net /FPGA/GPIO_33_34 is graphically connected to bus /FPGA/{GPIO} but is not a member of that bus
+    ; warning
+    @(15900 mils, 5700 mils): Bus to Wire Entry
+    @(16000 mils, 5600 mils): Vertical Bus, length 150 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15750 mils, 6400 mils): Label 'AD_SDA'
+[net_not_bus_member]: Net /FPGA/AD_SDA is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(15750 mils, 6400 mils): Bus to Wire Entry
+    @(15850 mils, 6500 mils): Vertical Bus, length 50 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'XC7Z020CLG484'.
+    ; warning
+    @(15250 mils, 8050 mils): Symbol U1 [XC7Z020CLG484]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(2400 mils, 2100 mils): Symbol IC6 [TPS65251-3RHAR]
+[lib_symbol_mismatch]: Symbol 'TPS65251-3RHAR' doesn't match copy in library 'rtl'
+    ; warning
+    @(2400 mils, 2100 mils): Symbol IC6 [TPS65251-3RHAR]
+[lib_symbol_mismatch]: Symbol 'TPS62130A' doesn't match copy in library 'Regulator_Switching'
+    ; warning
+    @(2050 mils, 7750 mils): Symbol U8 [TPS62130A]
+[lib_symbol_mismatch]: Symbol 'TPS62130A' doesn't match copy in library 'Regulator_Switching'
+    ; warning
+    @(6500 mils, 7700 mils): Symbol U7 [TPS62130A]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(2600 mils, 9800 mils): Symbol IC12 [MAX1510ETB+]
+[lib_symbol_mismatch]: Symbol 'MAX1510ETB+' doesn't match copy in library 'rtl'
+    ; warning
+    @(2600 mils, 9800 mils): Symbol IC12 [MAX1510ETB+]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(13550 mils, 4950 mils): Symbol IC11 [ADP1754ACPZ-1.3-R7]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(13600 mils, 8100 mils): Symbol IC10 [ADP1754ACPZ-1.3-R7]
+[footprint_link_issues]: The current configuration does not include the footprint library 'AD9364BBCZ'.
+    ; warning
+    @(2950 mils, 2300 mils): Symbol U2 [AD9364BBCZ]
+[lib_symbol_mismatch]: Symbol 'AD9364BBCZ' doesn't match copy in library 'ad9364'
+    ; warning
+    @(2950 mils, 2300 mils): Symbol U2 [AD9364BBCZ]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(2300 mils, 6450 mils): Symbol Y6 [ECS-TXO-32CSMV-400-BN-TR]
+[net_not_bus_member]: Net /Transceiver/AD_SPI_SCLK is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(4850 mils, 5950 mils): Bus to Wire Entry
+    @(4850 mils, 5950 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_SPI_MOSI is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(4850 mils, 6050 mils): Bus to Wire Entry
+    @(4850 mils, 5950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4950 mils, 6050 mils): Label 'AD_SPI_SCLK'
+[net_not_bus_member]: Net /Transceiver/AD_SPI_EN is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(4850 mils, 6150 mils): Bus to Wire Entry
+    @(4850 mils, 6050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4950 mils, 6150 mils): Label 'AD_SPI_MOSI'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(4950 mils, 6250 mils): Label 'AD_SPI_EN'
+[net_not_bus_member]: Net /Transceiver/AD_RESET is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(5600 mils, 5800 mils): Bus to Wire Entry
+    @(5600 mils, 5800 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_CI0 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(6800 mils, 4950 mils): Bus to Wire Entry
+    @(6800 mils, 4900 mils): Vertical Bus, length 50 mils
+[net_not_bus_member]: Net /Transceiver/AD_CI1 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(6800 mils, 5050 mils): Bus to Wire Entry
+    @(6800 mils, 4950 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_EN_AGC is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(6550 mils, 5450 mils): Bus to Wire Entry
+    @(6550 mils, 5450 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_CI2 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(6800 mils, 5150 mils): Bus to Wire Entry
+    @(6800 mils, 5150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6900 mils, 5050 mils): Label 'AD_CI0'
+[net_not_bus_member]: Net /Transceiver/AD_ENABLE is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(6550 mils, 5550 mils): Bus to Wire Entry
+    @(6550 mils, 5550 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_CI3 is graphically connected to bus /FPGA/{AD_CI} but is not a member of that bus
+    ; warning
+    @(6800 mils, 5250 mils): Bus to Wire Entry
+    @(6800 mils, 5150 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6900 mils, 5150 mils): Label 'AD_CI1'
+[net_not_bus_member]: Net /Transceiver/AD_TXNRX is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(6550 mils, 5650 mils): Bus to Wire Entry
+    @(6550 mils, 5550 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6650 mils, 5550 mils): Label 'AD_EN_AGC'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6900 mils, 5250 mils): Label 'AD_CI2'
+[net_not_bus_member]: Net /Transceiver/AD_SYNC_IN is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(6550 mils, 5750 mils): Bus to Wire Entry
+    @(6550 mils, 5650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6650 mils, 5650 mils): Label 'AD_ENABLE'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6900 mils, 5350 mils): Label 'AD_CI3'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6650 mils, 5750 mils): Label 'AD_TXNRX'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6650 mils, 5850 mils): Label 'AD_SYNC_IN'
+[footprint_link_issues]: The current configuration does not include the footprint library 'SMA-J-P-H-ST-EM1'.
+    ; warning
+    @(1050 mils, 9250 mils): Symbol J7 [SMA-J-P-H-ST-EM1]
+[net_not_bus_member]: Net /Transceiver/AD_CLK_OUT is graphically connected to bus /FPGA/{AD_CTRL} but is not a member of that bus
+    ; warning
+    @(6500 mils, 7250 mils): Bus to Wire Entry
+    @(6500 mils, 7250 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(6650 mils, 7150 mils): Label 'AD_CLK_OUT'
+[footprint_link_issues]: The current configuration does not include the footprint library 'TCM1-63AX_'.
+    ; warning
+    @(3350 mils, 9250 mils): Symbol T1 [TCM1-63AX_]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(1400 mils, 9950 mils): Symbol D2 [ESD8472MUT5G]
+[footprint_link_issues]: The current configuration does not include the footprint library 'AD9364BBCZ'.
+    ; warning
+    @(8300 mils, 6550 mils): Symbol U2 [AD9364BBCZ]
+[lib_symbol_mismatch]: Symbol 'AD9364BBCZ' doesn't match copy in library 'ad9364'
+    ; warning
+    @(8300 mils, 6550 mils): Symbol U2 [AD9364BBCZ]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5250 mils): Label 'AD_SPI_MISO'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5350 mils): Label 'AD_CO0'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5450 mils): Label 'AD_CO1'
+[net_not_bus_member]: Net /Transceiver/AD_SPI_MISO is graphically connected to bus /FPGA/{AD_SPI} but is not a member of that bus
+    ; warning
+    @(10150 mils, 5350 mils): Bus to Wire Entry
+    @(10150 mils, 5350 mils): Vertical Bus, length 50 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5550 mils): Label 'AD_CO2'
+[net_not_bus_member]: Net /Transceiver/AD_CO0 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 5450 mils): Bus to Wire Entry
+    @(10150 mils, 5450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5650 mils): Label 'AD_CO3'
+[net_not_bus_member]: Net /Transceiver/AD_CO1 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 5550 mils): Bus to Wire Entry
+    @(10150 mils, 5450 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5750 mils): Label 'AD_CO4'
+[net_not_bus_member]: Net /Transceiver/AD_CO2 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 5650 mils): Bus to Wire Entry
+    @(10150 mils, 5650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5850 mils): Label 'AD_CO5'
+[net_not_bus_member]: Net /Transceiver/AD_CO3 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 5750 mils): Bus to Wire Entry
+    @(10150 mils, 5750 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 5950 mils): Label 'AD_CO6'
+[net_not_bus_member]: Net /Transceiver/AD_CO4 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 5850 mils): Bus to Wire Entry
+    @(10150 mils, 5850 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(10050 mils, 6050 mils): Label 'AD_CO7'
+[net_not_bus_member]: Net /Transceiver/AD_CO5 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 5950 mils): Bus to Wire Entry
+    @(10150 mils, 5950 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_TX_D0_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 1400 mils): Bus to Wire Entry
+    @(11700 mils, 1400 mils): Vertical Bus, length 300 mils
+[net_not_bus_member]: Net /Transceiver/AD_TX_D0_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 1500 mils): Bus to Wire Entry
+    @(11700 mils, 1400 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_TX_D1_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 1600 mils): Bus to Wire Entry
+    @(11700 mils, 1500 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_CO6 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 6050 mils): Bus to Wire Entry
+    @(10150 mils, 6050 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_TX_D1_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 1700 mils): Bus to Wire Entry
+    @(11700 mils, 1700 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_TX_D2_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 1800 mils): Bus to Wire Entry
+    @(11700 mils, 1800 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_TX_D2_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 1900 mils): Bus to Wire Entry
+    @(11700 mils, 1800 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_CO7 is graphically connected to bus /FPGA/{AD_CO} but is not a member of that bus
+    ; warning
+    @(10150 mils, 6150 mils): Bus to Wire Entry
+    @(10150 mils, 6050 mils): Vertical Bus, length 100 mils
+[net_not_bus_member]: Net /Transceiver/AD_TX_D3_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2000 mils): Bus to Wire Entry
+    @(11700 mils, 1900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 1300 mils): Label 'AD_TX_D0_N'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 1400 mils): Label 'AD_TX_D0_P'
+[net_not_bus_member]: Net /Transceiver/AD_TX_D3_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2100 mils): Bus to Wire Entry
+    @(11700 mils, 2100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 1500 mils): Label 'AD_TX_D1_N'
+[net_not_bus_member]: Net /Transceiver/AD_TX_D4_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2200 mils): Bus to Wire Entry
+    @(11700 mils, 2200 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 1600 mils): Label 'AD_TX_D1_P'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 1700 mils): Label 'AD_TX_D2_N'
+[net_not_bus_member]: Net /Transceiver/AD_TX_D4_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2300 mils): Bus to Wire Entry
+    @(11700 mils, 2200 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 1800 mils): Label 'AD_TX_D2_P'
+[net_not_bus_member]: Net /Transceiver/AD_TX_D5_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2400 mils): Bus to Wire Entry
+    @(11700 mils, 2400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 1900 mils): Label 'AD_TX_D3_N'
+[net_not_bus_member]: Net /Transceiver/AD_TX_D5_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2500 mils): Bus to Wire Entry
+    @(11700 mils, 2400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2000 mils): Label 'AD_TX_D3_P'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2100 mils): Label 'AD_TX_D4_N'
+[net_not_bus_member]: Net /Transceiver/AD_FB_CLK_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2650 mils): Bus to Wire Entry
+    @(11700 mils, 2650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2200 mils): Label 'AD_TX_D4_P'
+[net_not_bus_member]: Net /Transceiver/AD_FB_CLK_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2750 mils): Bus to Wire Entry
+    @(11700 mils, 2650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2300 mils): Label 'AD_TX_D5_N'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2400 mils): Label 'AD_TX_D5_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_FRA_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 2950 mils): Bus to Wire Entry
+    @(11700 mils, 2950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2550 mils): Label 'AD_FB_CLK_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_FRA_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(11700 mils, 3050 mils): Bus to Wire Entry
+    @(11700 mils, 3050 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2650 mils): Label 'AD_FB_CLK_N'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2850 mils): Label 'AD_RX_FRA_P'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(11800 mils, 2950 mils): Label 'AD_RX_FRA_N'
+[no_connect_connected]: Pin with 'no connection' type is connected
+    ; warning
+    @(9400 mils, 8350 mils): Symbol U2 Hidden pin M3 [NC, Unconnected, Line]
+    @(9400 mils, 8350 mils): Horizontal Wire, length 150 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'AD9364BBCZ'.
+    ; warning
+    @(13500 mils, 1800 mils): Symbol U2 [AD9364BBCZ]
+[lib_symbol_mismatch]: Symbol 'AD9364BBCZ' doesn't match copy in library 'ad9364'
+    ; warning
+    @(13500 mils, 1800 mils): Symbol U2 [AD9364BBCZ]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 1300 mils): Label 'AD_RX_D0_N'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D0_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 1300 mils): Bus to Wire Entry
+    @(15300 mils, 1100 mils): Vertical Bus, length 300 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 1400 mils): Label 'AD_RX_D0_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D0_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 1400 mils): Bus to Wire Entry
+    @(15300 mils, 1400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 1500 mils): Label 'AD_RX_D1_N'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D1_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 1500 mils): Bus to Wire Entry
+    @(15300 mils, 1600 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 1600 mils): Label 'AD_RX_D1_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D1_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 1600 mils): Bus to Wire Entry
+    @(15300 mils, 1700 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 1700 mils): Label 'AD_RX_D2_N'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D2_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 1700 mils): Bus to Wire Entry
+    @(15300 mils, 1700 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 1800 mils): Label 'AD_RX_D2_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D2_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 1800 mils): Bus to Wire Entry
+    @(15300 mils, 1900 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 1900 mils): Label 'AD_RX_D3_N'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D3_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 1900 mils): Bus to Wire Entry
+    @(15300 mils, 2000 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2000 mils): Label 'AD_RX_D3_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D3_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2000 mils): Bus to Wire Entry
+    @(15300 mils, 2100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2100 mils): Label 'AD_RX_D4_N'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D4_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2100 mils): Bus to Wire Entry
+    @(15300 mils, 2100 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2200 mils): Label 'AD_RX_D4_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D4_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2200 mils): Bus to Wire Entry
+    @(15300 mils, 2200 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2300 mils): Label 'AD_RX_D5_N'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D5_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2300 mils): Bus to Wire Entry
+    @(15300 mils, 2400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2400 mils): Label 'AD_RX_D5_P'
+[net_not_bus_member]: Net /Transceiver/AD_RX_D5_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2400 mils): Bus to Wire Entry
+    @(15300 mils, 2400 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2550 mils): Label 'AD_DATA_CLK_P'
+[net_not_bus_member]: Net /Transceiver/AD_DATA_CLK_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2550 mils): Bus to Wire Entry
+    @(15300 mils, 2650 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2650 mils): Label 'AD_DATA_CLK_N'
+[net_not_bus_member]: Net /Transceiver/AD_DATA_CLK_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2650 mils): Bus to Wire Entry
+    @(15300 mils, 2750 mils): Vertical Bus, length 200 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2850 mils): Label 'AD_TX_FRA_P'
+[net_not_bus_member]: Net /Transceiver/AD_TX_FRA_P is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2850 mils): Bus to Wire Entry
+    @(15300 mils, 2950 mils): Vertical Bus, length 100 mils
+[label_dangling]: Label not connected to anything
+    ; error
+    @(15200 mils, 2950 mils): Label 'AD_TX_FRA_N'
+[net_not_bus_member]: Net /Transceiver/AD_TX_FRA_N is graphically connected to bus /Transceiver/{AD} but is not a member of that bus
+    ; warning
+    @(15200 mils, 2950 mils): Bus to Wire Entry
+    @(15300 mils, 2950 mils): Vertical Bus, length 100 mils
+[footprint_link_issues]: The current configuration does not include the footprint library 'TCM1-63AX_'.
+    ; warning
+    @(12950 mils, 8550 mils): Symbol T3 [TCM1-63AX_]
+[footprint_link_issues]: The current configuration does not include the footprint library 'SMA-J-P-H-ST-EM1'.
+    ; warning
+    @(14750 mils, 8700 mils): Symbol J2 [SMA-J-P-H-ST-EM1]
+[footprint_link_issues]: The current configuration does not include the footprint library ''.
+    ; warning
+    @(14400 mils, 9400 mils): Symbol D3 [ESD8472MUT5G]
+
+***** Sheet /FPGA/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 2300 mils): Symbol U1 Pin G6 [PS_MIO0_500, Bidirectional, Line]
+[multiple_net_names]: Both BMODE1(3) and qSPI_D2 are attached to the same items; BMODE1(3) will be used in the netlist
+    ; warning
+    @(7900 mils, 6450 mils): Label 'BMODE1(3)'
+    @(2100 mils, 2700 mils): Label 'qSPI_D2'
+[multiple_net_names]: Both BMODE0(5) and qSPI_D3 are attached to the same items; BMODE0(5) will be used in the netlist
+    ; warning
+    @(2050 mils, 2800 mils): Label 'BMODE0(5)'
+    @(2100 mils, 2800 mils): Label 'qSPI_D3'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 3200 mils): Symbol U1 Pin C4 [PS_MIO9_500, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 3300 mils): Symbol U1 Pin G7 [PS_MIO10_500, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 3400 mils): Symbol U1 Pin B4 [PS_MIO11_500, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 3500 mils): Symbol U1 Pin C5 [PS_MIO12_500, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 3600 mils): Symbol U1 Pin A6 [PS_MIO13_500, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 3700 mils): Symbol U1 Pin B6 [PS_MIO14_500, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 3800 mils): Symbol U1 Pin E6 [PS_MIO15_500, Bidirectional, Line]
+[multiple_net_names]: Both +1V8 and VCCOMIO1 are attached to the same items; +1V8 will be used in the netlist
+    ; warning
+    @(5050 mils, 10650 mils): Symbol #PWR053 Pin 1 [Power input, Line]
+    @(4450 mils, 650 mils): Label 'VCCOMIO1'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(1650 mils, 4400 mils): Global Label 'ETH_RESET'
+    @(13800 mils, 6750 mils): Label 'ETH_RESET'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4050 mils, 4050 mils): Symbol U1 Pin D12 [PS_MIO46_501, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4050 mils, 4150 mils): Symbol U1 Pin B10 [PS_MIO47_501, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4050 mils, 4250 mils): Symbol U1 Pin D11 [PS_MIO48_501, Bidirectional, Line]
+[multiple_net_names]: Both BMODE2(4) and qSPI_D1 are attached to the same items; BMODE2(4) will be used in the netlist
+    ; warning
+    @(2050 mils, 2600 mils): Label 'BMODE2(4)'
+    @(1400 mils, 5750 mils): Label 'qSPI_D1'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4050 mils, 4350 mils): Symbol U1 Pin C14 [PS_MIO49_501, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4050 mils, 4450 mils): Symbol U1 Pin D13 [PS_MIO50_501, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(4050 mils, 4550 mils): Symbol U1 Pin C10 [PS_MIO51_501, Bidirectional, Line]
+[pin_to_pin]: Pins of type Bidirectional and Power output are connected
+    ; warning
+    @(5750 mils, 2400 mils): Symbol U1 Pin G10 [RSVDGND, Bidirectional, Line]
+    @(12650 mils, 1950 mils): Symbol J12 Pin 5 [GND, Power output, Line]
+[multiple_net_names]: Both BMODE3(2) and qSPI_D0 are attached to the same items; BMODE3(2) will be used in the netlist
+    ; warning
+    @(2050 mils, 2500 mils): Label 'BMODE3(2)'
+    @(3000 mils, 5950 mils): Label 'qSPI_D0'
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2250 mils, 7500 mils): Symbol #PWR01 Pin 1 [Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(7700 mils, 2750 mils): Symbol #PWR083 Pin 1 [Power input, Line]
+[multiple_net_names]: Both +1V0 and VCCINT are attached to the same items; +1V0 will be used in the netlist
+    ; warning
+    @(2250 mils, 7500 mils): Symbol #PWR01 Pin 1 [Power input, Line]
+    @(3300 mils, 7500 mils): Label 'VCCINT'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7700 mils, 3300 mils): Symbol R1 Pin 2 [Passive, Line]
+[missing_unit]: Symbol SW4 has unplaced units [ Unit B ]
+    ; warning
+    @(6800 mils, 5450 mils): Symbol SW4 [SW_DPDT_x2]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4750 mils, 7500 mils): Symbol #PWR011 Pin 1 [Power input, Line]
+[missing_unit]: Symbol SW2 has unplaced units [ Unit B ]
+    ; warning
+    @(6600 mils, 6000 mils): Symbol SW2 [SW_DPDT_x2]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(6900 mils, 5900 mils): Symbol #PWR09 Pin 1 [Power input, Line]
+[missing_unit]: Symbol SW3 has unplaced units [ Unit B ]
+    ; warning
+    @(6600 mils, 6400 mils): Symbol SW3 [SW_DPDT_x2]
+[multiple_net_names]: Both +1V0 and VCCBRAM are attached to the same items; +1V0 will be used in the netlist
+    ; warning
+    @(2250 mils, 9400 mils): Symbol #PWR07 Pin 1 [Power input, Line]
+    @(3200 mils, 9400 mils): Label 'VCCBRAM'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 1450 mils): Symbol U1 Pin H17 [IO_0_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 1550 mils): Symbol U1 Pin F16 [IO_L1P_T0_AD0P_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 1650 mils): Symbol U1 Pin E16 [IO_L1N_T0_AD0N_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 1750 mils): Symbol U1 Pin D16 [IO_L2P_T0_AD8P_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 1850 mils): Symbol U1 Pin D17 [IO_L2N_T0_AD8N_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 2550 mils): Symbol U1 Pin G17 [IO_L6P_T0_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 3050 mils): Symbol U1 Pin B17 [IO_L8N_T1_AD10N_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 3250 mils): Symbol U1 Pin A17 [IO_L9N_T1_DQS_AD3N_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 3550 mils): Symbol U1 Pin C17 [IO_L11P_T1_SRCC_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 3650 mils): Symbol U1 Pin C18 [IO_L11N_T1_SRCC_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 4150 mils): Symbol U1 Pin D20 [IO_L14P_T2_AD4P_SRCC_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 4250 mils): Symbol U1 Pin C20 [IO_L14N_T2_AD4N_SRCC_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 4350 mils): Symbol U1 Pin A21 [IO_L15P_T2_DQS_AD12P_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 4450 mils): Symbol U1 Pin A22 [IO_L15N_T2_DQS_AD12N_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 4950 mils): Symbol U1 Pin B21 [IO_L18P_T2_AD13P_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 5050 mils): Symbol U1 Pin B22 [IO_L18N_T2_AD13N_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 5150 mils): Symbol U1 Pin H19 [IO_L19P_T3_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 5250 mils): Symbol U1 Pin H20 [IO_L19N_T3_VREF_35, Bidirectional, Line]
+[multiple_net_names]: Both +1V0 and VCCPINT are attached to the same items; +1V0 will be used in the netlist
+    ; warning
+    @(2500 mils, 10650 mils): Symbol #PWR047 Pin 1 [Power input, Line]
+    @(4250 mils, 10650 mils): Label 'VCCPINT'
+[multiple_net_names]: Both +2V5 and VCCO35 are attached to the same items; +2V5 will be used in the netlist
+    ; warning
+    @(6650 mils, 7700 mils): Symbol #PWR041 Pin 1 [Power input, Line]
+    @(9200 mils, 6850 mils): Label 'VCCO35'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 5950 mils): Symbol U1 Pin F21 [IO_L23P_T3_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 6050 mils): Symbol U1 Pin F22 [IO_L23N_T3_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 6150 mils): Symbol U1 Pin H22 [IO_L24P_T3_AD15P_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 6250 mils): Symbol U1 Pin G22 [IO_L24N_T3_AD15N_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(10150 mils, 6350 mils): Symbol U1 Pin H18 [IO_25_35, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 1350 mils): Symbol U1 Pin H15 [IO_0_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 1450 mils): Symbol U1 Pin J15 [IO_L1P_T0_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 1550 mils): Symbol U1 Pin K15 [IO_L1N_T0_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 1850 mils): Symbol U1 Pin K16 [IO_L3P_T0_DQS_PUDC_B_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 1950 mils): Symbol U1 Pin L16 [IO_L3N_T0_DQS_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 2450 mils): Symbol U1 Pin M15 [IO_L6P_T0_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 2550 mils): Symbol U1 Pin M16 [IO_L6N_T0_VREF_34, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(6900 mils, 10200 mils): Symbol #PWR06 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 3750 mils): Symbol U1 Pin L19 [IO_L12N_T1_MRCC_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 5050 mils): Symbol U1 Pin N15 [IO_L19P_T3_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 5150 mils): Symbol U1 Pin P15 [IO_L19N_T3_VREF_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 5850 mils): Symbol U1 Pin R18 [IO_L23P_T3_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 5950 mils): Symbol U1 Pin T18 [IO_L23N_T3_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 6050 mils): Symbol U1 Pin P16 [IO_L24P_T3_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 6150 mils): Symbol U1 Pin R16 [IO_L24N_T3_34, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(11950 mils, 6250 mils): Symbol U1 Pin R15 [IO_25_34, Bidirectional, Line]
+[multiple_net_names]: Both +1V5 and VDD_15 are attached to the same items; +1V5 will be used in the netlist
+    ; warning
+    @(6900 mils, 10200 mils): Symbol #PWR06 Pin 1 [Power input, Line]
+    @(8850 mils, 10200 mils): Label 'VDD_15'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 1500 mils): Symbol U1 Pin U19 [IO_0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 1600 mils): Symbol U1 Pin T21 [IO_L1P_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 1700 mils): Symbol U1 Pin U21 [IO_L1N_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 1800 mils): Symbol U1 Pin T22 [IO_L2P_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 1900 mils): Symbol U1 Pin U22 [IO_L2N_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2000 mils): Symbol U1 Pin V22 [IO_L3P_T0_DQS_33, Bidirectional, Line]
+[multiple_net_names]: Both +3V3 and VCCOMIO0 are attached to the same items; +3V3 will be used in the netlist
+    ; warning
+    @(6750 mils, 9400 mils): Symbol #PWR056 Pin 1 [Power input, Line]
+    @(9000 mils, 10850 mils): Label 'VCCOMIO0'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2100 mils): Symbol U1 Pin W22 [IO_L3N_T0_DQS_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2200 mils): Symbol U1 Pin W20 [IO_L4P_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2300 mils): Symbol U1 Pin W21 [IO_L4N_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2400 mils): Symbol U1 Pin U20 [IO_L5P_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2500 mils): Symbol U1 Pin V20 [IO_L5N_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2600 mils): Symbol U1 Pin V18 [IO_L6P_T0_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2700 mils): Symbol U1 Pin V19 [IO_L6N_T0_VREF_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2800 mils): Symbol U1 Pin AA22 [IO_L7P_T1_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 2900 mils): Symbol U1 Pin AB22 [IO_L7N_T1_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3000 mils): Symbol U1 Pin AA21 [IO_L8P_T1_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3100 mils): Symbol U1 Pin AB21 [IO_L8N_T1_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3200 mils): Symbol U1 Pin Y20 [IO_L9P_T1_DQS_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3300 mils): Symbol U1 Pin Y21 [IO_L9N_T1_DQS_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3400 mils): Symbol U1 Pin AB19 [IO_L10P_T1_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3500 mils): Symbol U1 Pin AB20 [IO_L10N_T1_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3600 mils): Symbol U1 Pin Y19 [IO_L11P_T1_SRCC_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 3700 mils): Symbol U1 Pin AA19 [IO_L11N_T1_SRCC_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 6200 mils): Symbol U1 Pin AB14 [IO_L24P_T3_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13950 mils, 6400 mils): Symbol U1 Pin U14 [IO_25_33, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 1600 mils): Symbol U1 Pin V10 [IO_L1P_T0_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 1700 mils): Symbol U1 Pin V9 [IO_L1N_T0_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 3400 mils): Symbol U1 Pin Y11 [IO_L10P_T1_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 3500 mils): Symbol U1 Pin Y10 [IO_L10N_T1_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 3600 mils): Symbol U1 Pin AA9 [IO_L11P_T1_SRCC_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 3700 mils): Symbol U1 Pin AA8 [IO_L11N_T1_SRCC_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 3900 mils): Symbol U1 Pin Y8 [IO_L12N_T1_MRCC_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 5800 mils): Symbol U1 Pin U6 [IO_L22P_T3_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 5900 mils): Symbol U1 Pin U5 [IO_L22N_T3_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 6000 mils): Symbol U1 Pin V7 [IO_L23P_T3_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 6100 mils): Symbol U1 Pin W7 [IO_L23N_T3_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 6200 mils): Symbol U1 Pin W6 [IO_L24P_T3_13, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(15450 mils, 6300 mils): Symbol U1 Pin W5 [IO_L24N_T3_13, Bidirectional, Line]
+
+***** Sheet /DDR/
+[multiple_net_names]: Both +1V5 and VDD_15 are attached to the same items; +1V5 will be used in the netlist
+    ; warning
+    @(7350 mils, 9450 mils): Symbol #PWR0220 Pin 1 [Power input, Line]
+    @(7250 mils, 10600 mils): Label 'VDD_15'
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(12700 mils, 5950 mils): Symbol #PWR0226 Pin 1 [Power input, Line]
+
+***** Sheet /Power/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2050 mils, 1550 mils): Symbol #PWR046 Pin 1 [Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(3500 mils, 1400 mils): Symbol IC6 Pin 27 [PGOOD, Passive, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(8800 mils, 3850 mils): Symbol #PWR029 Pin 1 [Power input, Line]
+[multiple_net_names]: Both GND and AGND_DDR are attached to the same items; GND will be used in the netlist
+    ; warning
+    @(3600 mils, 900 mils): Symbol #PWR063 Pin 1 [Power input, Line]
+    @(3350 mils, 10700 mils): Label 'AGND_DDR'
+[multiple_net_names]: Both DDR_PG and PS_POR_B are attached to the same items; DDR_PG will be used in the netlist
+    ; warning
+    @(5000 mils, 9950 mils): Global Label 'DDR_PG'
+    @(5400 mils, 10300 mils): Global Label 'PS_POR_B'
+
+***** Sheet /Transceiver/
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(1650 mils, 1900 mils): Symbol U2 Pin A11 [VDDA1P1_TX_VCO, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(1450 mils, 2800 mils): Symbol #PWR087 Pin 1 [Power input, Line]
+[multiple_net_names]: Both +1V3 and VDDA1P3_RX_TX are attached to the same items; +1V3 will be used in the netlist
+    ; warning
+    @(4750 mils, 1800 mils): Symbol #PWR090 Pin 1 [Power input, Line]
+    @(1650 mils, 3450 mils): Symbol U2 Hidden pin D3 [VDDA1P3_RX_TX, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4250 mils, 2350 mils): Symbol U2 Pin G3 [VDDA1P1_RX_VCO, Power input, Line]
+[multiple_net_names]: Both GND and VSSA are attached to the same items; GND will be used in the netlist
+    ; warning
+    @(8500 mils, 2850 mils): Symbol #PWR098 Pin 1 [Power input, Line]
+    @(4250 mils, 3350 mils): Symbol U2 Hidden pin A4 [VSSA, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4750 mils, 2650 mils): Symbol #PWR088 Pin 1 [Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(1550 mils, 7850 mils): Symbol #PWR019 Pin 1 [Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5050 mils): Symbol U2 Pin C5 [CTRL_IN0, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5150 mils): Symbol U2 Pin C6 [CTRL_IN1, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5250 mils): Symbol U2 Pin D6 [CTRL_IN2, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5350 mils): Symbol U2 Pin D5 [CTRL_IN3, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5550 mils): Symbol U2 Pin G5 [EN_AGC, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5650 mils): Symbol U2 Pin G6 [ENABLE, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5750 mils): Symbol U2 Pin H4 [TXNRX, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 5850 mils): Symbol U2 Pin H5 [SYNC_IN, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1150 mils, 9250 mils): Symbol J7 Pin 3_1 [Passive, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 6050 mils): Symbol U2 Pin J5 [SPI_CLK, Input, Clock]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 6150 mils): Symbol U2 Pin J4 [SPI_DI, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 6250 mils): Symbol U2 Pin K6 [SPI_ENB, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(7200 mils, 6650 mils): Symbol U2 Pin M11 [XTALP, Input, Clock]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(7200 mils, 6650 mils): Symbol U2 Pin M11 [XTALP, Input, Clock]
+[pin_to_pin]: Pins of type Output and Output are connected
+    ; error
+    @(7200 mils, 8150 mils): Symbol U2 Pin M9 [TX1B_P, Output, Line]
+    @(7200 mils, 8250 mils): Symbol U2 Pin M10 [TX1B_N, Output, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(5900 mils, 10000 mils): Symbol #PWR0105 Pin 1 [Power input, Line]
+[hier_label_mismatch]: Hierarchical label {AD} has no matching sheet pin in the parent sheet
+    ; error
+    @(11700 mils, 3150 mils): Hierarchical Label '{AD}'
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(12400 mils, 2550 mils): Symbol U2 Pin F10 [FB_CLK_P, Input, Clock]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(12400 mils, 2650 mils): Symbol U2 Pin G10 [FB_CLK_N, Input, Clock]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(14600 mils, 2850 mils): Symbol U2 Pin G9 [TX_FRAME_P, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(14600 mils, 2950 mils): Symbol U2 Pin H9 [TX_FRAME_N, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(14650 mils, 8700 mils): Symbol J2 Pin 3_2 [Passive, Line]
+
+***** Sheet /INTERFACES/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(1650 mils, 1150 mils): Symbol IC2 Pin 25 [THERMAL_PAD, Passive, Line]
+[multiple_net_names]: Both +3.3V and SD_3.3 are attached to the same items; +3.3V will be used in the netlist
+    ; warning
+    @(3650 mils, 3250 mils): Symbol #PWR0138 Pin 1 [Power input, Line]
+    @(3800 mils, 2400 mils): Label 'SD_3.3'
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2100 mils, 5000 mils): Symbol IC1 Pin 74 [D18, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2200 mils, 5000 mils): Symbol IC1 Pin 73 [D19, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2300 mils, 5000 mils): Symbol IC1 Pin 72 [D20, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2400 mils, 5000 mils): Symbol IC1 Pin 71 [D21, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2500 mils, 5000 mils): Symbol IC1 Pin 70 [D22, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2600 mils, 5000 mils): Symbol IC1 Pin 69 [D23, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 5500 mils): Symbol IC1 Pin 78 [D17, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 5600 mils): Symbol IC1 Pin 79 [CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 5700 mils): Symbol IC1 Pin 80 [D16, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 5800 mils): Symbol IC1 Pin 81 [D15, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 5900 mils): Symbol IC1 Pin 82 [D14, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 6000 mils): Symbol IC1 Pin 83 [D13, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 6100 mils): Symbol IC1 Pin 84 [D12, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 6200 mils): Symbol IC1 Pin 85 [D11, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 6300 mils): Symbol IC1 Pin 86 [D10, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 6400 mils): Symbol IC1 Pin 87 [D9, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 6500 mils): Symbol IC1 Pin 88 [D8, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(5300 mils, 5300 mils): Symbol IC1 Pin 50 [CEC_CLK, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 7400 mils): Symbol IC1 Pin 97 [DE, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(1300 mils, 7500 mils): Symbol IC1 Pin 98 [HSYNC, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(5300 mils, 5600 mils): Symbol IC1 Pin 47 [MVDD, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(2000 mils, 8000 mils): Symbol IC1 Pin 1 [DVDD_1, Power input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2100 mils, 8000 mils): Symbol IC1 Pin 2 [VSYNC, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(2900 mils, 8000 mils): Symbol IC1 Pin 10 [SPDIF, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4000 mils, 8000 mils): Symbol IC1 Pin 21 [PLVDD, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(4300 mils, 8000 mils): Symbol IC1 Pin 24 [PVDD_1, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13800 mils, 1000 mils): Symbol J6 Pin 23 [MP_1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(13800 mils, 1100 mils): Symbol J6 Pin 24 [MP_2, Passive, Line]
+[multiple_net_names]: Both AVDD_18 and AVDD_18OUT are attached to the same items; AVDD_18 will be used in the netlist
+    ; warning
+    @(11100 mils, 5000 mils): Label 'AVDD_18'
+    @(9350 mils, 10650 mils): Label 'AVDD_18OUT'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 9700 mils): Global Label 'OTG_CLK'
+    @(4500 mils, 3050 mils): Label 'OTG_CLK'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 9800 mils): Global Label 'OTG_DIR'
+    @(4500 mils, 2350 mils): Label 'OTG_DIR'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 9900 mils): Global Label 'OTG_RCLK'
+    @(7200 mils, 2150 mils): Label 'OTG_RCLK'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10000 mils): Global Label 'OTG_NXT'
+    @(4500 mils, 2550 mils): Label 'OTG_NXT'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10100 mils): Global Label 'OTG_D0'
+    @(4500 mils, 2650 mils): Label 'OTG_D0'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10200 mils): Global Label 'OTG_D1'
+    @(7200 mils, 2450 mils): Label 'OTG_D1'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10300 mils): Global Label 'OTG_D2'
+    @(7200 mils, 2550 mils): Label 'OTG_D2'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10400 mils): Global Label 'OTG_D3'
+    @(4500 mils, 2950 mils): Label 'OTG_D3'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10500 mils): Global Label 'OTG_D4'
+    @(4500 mils, 2250 mils): Label 'OTG_D4'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10600 mils): Global Label 'OTG_D5'
+    @(4500 mils, 3150 mils): Label 'OTG_D5'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10700 mils): Global Label 'OTG_D6'
+    @(4500 mils, 3250 mils): Label 'OTG_D6'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10800 mils): Global Label 'OTG_D7'
+    @(4500 mils, 3350 mils): Label 'OTG_D7'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 10900 mils): Global Label 'OTG_STP'
+    @(4500 mils, 2450 mils): Label 'OTG_STP'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 11000 mils): Global Label 'OTG_RST'
+    @(6150 mils, 3650 mils): Label 'OTG_RST'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 11100 mils): Global Label 'SD_D0'
+    @(4500 mils, 3650 mils): Label 'SD_D0'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 11200 mils): Global Label 'SD_D1'
+    @(950 mils, 2050 mils): Label 'SD_D1'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 11300 mils): Global Label 'SD_D2'
+    @(4500 mils, 3850 mils): Label 'SD_D2'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 11400 mils): Global Label 'SD_D3'
+    @(950 mils, 2250 mils): Label 'SD_D3'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 11500 mils): Global Label 'SD_CMD'
+    @(4500 mils, 3550 mils): Label 'SD_CMD'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-10900 mils, 11600 mils): Global Label 'SD_CLK'
+    @(4500 mils, 3450 mils): Label 'SD_CLK'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 13400 mils): Global Label 'HD_D15'
+    @(14400 mils, 5400 mils): Label 'HD_D15'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 13500 mils): Global Label 'HD_D14'
+    @(2500 mils, 4250 mils): Label 'HD_D14'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 13600 mils): Global Label 'HD_D13'
+    @(2400 mils, 4250 mils): Label 'HD_D13'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 13700 mils): Global Label 'HD_D12'
+    @(14400 mils, 5300 mils): Label 'HD_D12'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 13800 mils): Global Label 'HD_D11'
+    @(14400 mils, 5600 mils): Label 'HD_D11'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 13900 mils): Global Label 'HD_D10'
+    @(14400 mils, 5500 mils): Label 'HD_D10'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14000 mils): Global Label 'HD_D9'
+    @(14400 mils, 5700 mils): Label 'HD_D9'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14100 mils): Global Label 'HD_CLK'
+    @(14400 mils, 4100 mils): Label 'HD_CLK'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14200 mils): Global Label 'HD_D8'
+    @(14400 mils, 4800 mils): Label 'HD_D8'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14300 mils): Global Label 'HD_D7'
+    @(14400 mils, 4900 mils): Label 'HD_D7'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14400 mils): Global Label 'HD_D6'
+    @(14400 mils, 5000 mils): Label 'HD_D6'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14500 mils): Global Label 'HD_D5'
+    @(14400 mils, 5100 mils): Label 'HD_D5'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14600 mils): Global Label 'HD_D4'
+    @(14400 mils, 6300 mils): Label 'HD_D4'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14700 mils): Global Label 'HD_D3'
+    @(14400 mils, 5800 mils): Label 'HD_D3'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14800 mils): Global Label 'HD_D2'
+    @(14400 mils, 5900 mils): Label 'HD_D2'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 14900 mils): Global Label 'HD_D1'
+    @(14400 mils, 6100 mils): Label 'HD_D1'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-9700 mils, 15900 mils): Global Label 'OTG_OC'
+    @(10600 mils, 1500 mils): Label 'OTG_OC'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15000 mils): Global Label 'HD_D0'
+    @(14400 mils, 6000 mils): Label 'HD_D0'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15100 mils): Global Label 'HD_DE'
+    @(14400 mils, 4500 mils): Label 'HD_DE'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14250 mils): Global Label 'ETH_RX_CTRL'
+    @(4550 mils, 2150 mils): Label 'ETH_RX_CTRL'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15200 mils): Global Label 'HD_HSYNC'
+    @(14400 mils, 4700 mils): Label 'HD_HSYNC'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14350 mils): Global Label 'ETH_RXD_0'
+    @(4550 mils, 1750 mils): Label 'ETH_RXD_0'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15300 mils): Global Label 'HD_VSYNC'
+    @(14400 mils, 4000 mils): Label 'HD_VSYNC'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14450 mils): Global Label 'ETH_RXD_1'
+    @(9600 mils, 5650 mils): Label 'ETH_RXD_1'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15400 mils): Global Label 'HD_SPDIF'
+    @(14400 mils, 4400 mils): Label 'HD_SPDIF'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14550 mils): Global Label 'ETH_RX_CLK'
+    @(4550 mils, 1650 mils): Label 'ETH_RX_CLK'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15500 mils): Global Label 'HD_SCL'
+    @(14400 mils, 3900 mils): Label 'HD_SCL'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14650 mils): Global Label 'ETH_RXD_2'
+    @(4550 mils, 1950 mils): Label 'ETH_RXD_2'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15600 mils): Global Label 'HD_SDA'
+    @(14400 mils, 4300 mils): Label 'HD_SDA'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14750 mils): Global Label 'ETH_RXD_3'
+    @(9600 mils, 5950 mils): Label 'ETH_RXD_3'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-11100 mils, 15700 mils): Global Label 'HD_INT'
+    @(14400 mils, 4200 mils): Label 'HD_INT'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14850 mils): Global Label 'ETH_MDC'
+    @(4550 mils, 4650 mils): Label 'ETH_MDC'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 14950 mils): Global Label 'ETH_MDIO'
+    @(4550 mils, 4750 mils): Label 'ETH_MDIO'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 15050 mils): Global Label 'ETH_TXD_0'
+    @(4550 mils, 1150 mils): Label 'ETH_TXD_0'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 15150 mils): Global Label 'ETH_TXD_1'
+    @(4550 mils, 1250 mils): Label 'ETH_TXD_1'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 15250 mils): Global Label 'ETH_TX_CLK'
+    @(9600 mils, 6450 mils): Label 'ETH_TX_CLK'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 15350 mils): Global Label 'ETH_TXD_2'
+    @(4550 mils, 1350 mils): Label 'ETH_TXD_2'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 15450 mils): Global Label 'ETH_TXD_3'
+    @(4550 mils, 1450 mils): Label 'ETH_TXD_3'
+[same_local_global_label]: Local and global labels have same name
+    ; warning
+    @(-12250 mils, 15550 mils): Global Label 'ETH_TX_CTRL'
+    @(4550 mils, 1550 mils): Label 'ETH_TX_CTRL'
+
+***** Sheet /GPIO/
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2250 mils): Symbol J14 Pin 11 [11, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2350 mils): Symbol J14 Pin 13 [13, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2450 mils): Symbol J14 Pin 15 [15, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2550 mils): Symbol J14 Pin 17 [17, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2650 mils): Symbol J14 Pin 19 [19, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2750 mils): Symbol J14 Pin 21 [21, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2850 mils): Symbol J14 Pin 23 [23, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 2950 mils): Symbol J14 Pin 25 [25, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3050 mils): Symbol J14 Pin 27 [27, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3150 mils): Symbol J14 Pin 29 [29, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3250 mils): Symbol J14 Pin 31 [31, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3350 mils): Symbol J14 Pin 33 [33, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3450 mils): Symbol J14 Pin 35 [35, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3550 mils): Symbol J14 Pin 37 [37, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3650 mils): Symbol J14 Pin 39 [39, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3750 mils): Symbol J14 Pin 41 [41, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3850 mils): Symbol J14 Pin 43 [43, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 3950 mils): Symbol J14 Pin 45 [45, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2250 mils): Symbol J14 Pin 12 [12, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4050 mils): Symbol J14 Pin 47 [47, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2350 mils): Symbol J14 Pin 14 [14, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2450 mils): Symbol J14 Pin 16 [16, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4150 mils): Symbol J14 Pin 49 [49, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2550 mils): Symbol J14 Pin 18 [18, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4250 mils): Symbol J14 Pin 51 [51, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2650 mils): Symbol J14 Pin 20 [20, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2750 mils): Symbol J14 Pin 22 [22, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4350 mils): Symbol J14 Pin 53 [53, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2850 mils): Symbol J14 Pin 24 [24, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 2950 mils): Symbol J14 Pin 26 [26, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 3050 mils): Symbol J14 Pin 28 [28, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4550 mils): Symbol J14 Pin 57 [57, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 3150 mils): Symbol J14 Pin 30 [30, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4650 mils): Symbol J14 Pin 59 [59, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(6050 mils, 3250 mils): Symbol J14 Pin 32 [32, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4750 mils): Symbol J14 Pin 61 [61, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4850 mils): Symbol J14 Pin 63 [63, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 4950 mils): Symbol J14 Pin 65 [65, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5050 mils): Symbol J14 Pin 67 [67, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5150 mils): Symbol J14 Pin 69 [69, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5250 mils): Symbol J14 Pin 71 [71, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5350 mils): Symbol J14 Pin 73 [73, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5450 mils): Symbol J14 Pin 75 [75, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5550 mils): Symbol J14 Pin 77 [77, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5650 mils): Symbol J14 Pin 79 [79, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5750 mils): Symbol J14 Pin 81 [81, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(5050 mils, 5850 mils): Symbol J14 Pin 83 [83, Passive, Line]
+
+ ** ERC messages: 918  Errors 460  Warnings 458
